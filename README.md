@@ -56,7 +56,7 @@ No build process or dependencies are required.
 
 1. Clone or download this repository.
 2. Open `index.html` directly in a browser, or serve it via any static file server.
-3. Or you can also play directly here https://don-t-let-your-debt-be-like-this.vercel.app/
+3. Or you can also play directly [here !!](https://don-t-let-your-debt-be-like-this.vercel.app)
 
 ## Usage
 
